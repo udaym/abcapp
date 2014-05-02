@@ -1,0 +1,2 @@
+module AbcapsHelper
+end
